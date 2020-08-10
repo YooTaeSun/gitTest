@@ -1,1 +1,25 @@
-1
+<tmax_license>
+
+<license version="1.0">
+
+<product version="6">Tibero</product>
+
+<serial_ID>1597046765</serial_ID>
+
+<issue_date>2020/08/10</issue_date>
+
+<licensee>HMC-YJ-N042295</licensee>
+
+<edition>standard</edition>
+
+<type>demo</type>
+
+<demo_duration>184</demo_duration>
+
+<identified_by_host>HMC-YJ-N042295</identified_by_host>
+
+<signature>rw/1zZY1eUEr4RE2fKh5FEqQDvvbQ6WxuVHzJwQetUI=</signature>
+
+</license>
+
+</tmax_license>
