@@ -1,0 +1,25 @@
+P_DB_URL = 'townsi:t102061s@192.168.0.10:3306'
+P_COM_INFO = {
+    'is_모의투자': 'Y',  # 모의투자에서는 nxt가 거래되지 않음
+    'kiwoom_id': 'jhes007',
+    'user_id': 'townsi',
+    'name': 'DB01',
+    'ip': '192.168.0.10',
+    'sql_show': 'N',
+    'isLogin': True,
+}
+
+P_투자금액축소 = 2.5
+
+app_key = 'PSMGLumByEkQwpsZJexuiHRYTKxYoxb0DuNv'
+app_secret = 'y7/ye1SbERP3PajBuKbQd9aNxIzA0OXidrTJ8jLpc5U9LuN/zUUp2hiY12qRAHRElUiAotqXCUrbH/WVVw18GNG4MtglwIO23tSd6+3F4ehqB3Uuk79c9AjpsPrJO8yceyExLDQCyqWdlhI+sEtJG5jnmcXiCGhKxgqDLVZNOu14BUxJTXU='
+한투임시비번 = 'Tbkmbl9f'
+키움ID = 'townsi'
+키움로그인 = 'ts102061'
+계좌 = {
+    '위탁종합': '57951284',
+    '해외증권': '50963946',
+    '모의투자': '8089827511'
+}
+
+P_PATH_PY310_64 = r'C:\ProgramData\anaconda3\envs\py310_64\python.exe'
